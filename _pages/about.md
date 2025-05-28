@@ -29,4 +29,4 @@ Biography ([CV](https://dynova.github.io/files/CV_AbhishekMallela.pdf)) - "What 
 
 * Chess has been my lifelong passion. With my achievements as a national chess master and state champion in multiple states (e.g., Texas, Missouri, Kansas, and New Mexico), *I show that I perform well under pressure, have excellent time management skills, and make strategic decisions.*
 
-* Mathematical biology is not easy. I show with my PhD in applied math that *I excel in technical and interdisciplinary fields and the analytical skills I have honed are transferable to other areas.*
+* Mathematical biology is an active and exciting area of research. I show with my PhD in applied math that *I excel in technical and interdisciplinary fields and the analytical skills I have honed are transferable to other areas.*

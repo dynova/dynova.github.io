@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV and Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Available in PDF format.](https://dynova.github.io/files/CV_AbhishekMallela.pdf)
+[Resume](https://dynova.github.io/files/Resume_AbhishekMallela.pdf)
+
+[CV](https://dynova.github.io/files/CV_AbhishekMallela.pdf)
 
 <!-- Education
 ======
