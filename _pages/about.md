@@ -7,26 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Research Scientist with focus on enzyme kinetics at the University of Notre Dame.
 
-Background and Core Proficiencies
-======
+I am currently a Postdoctoral Fellow in mathematical biology in the [Department of Biological Sciences](https://biology.nd.edu) at the University of Notre Dame mentored by [Santiago Schnell](https://biology.nd.edu/people/santiago-schnell/). I am working on the design & parameter estimation of enzyme-catalyzed experiments, and am also designing a mathematical model of a minimal mechanism for hormesis.  
 
-Versatile and collaborative research scientist utilizing 10+ years in research to deliver impactful modeling and simulation results in mathematics and biology. Applied math PhD, multilingual researcher in mathematical biology, avid coder, and chess champion.
+Previously, I was a Postdoctoral Fellow in the [Center for Nonlinear Studies](https://cnls.lanl.gov/external//people/Abhishek_Mallela.php) and the [Theoretical Biology and Biophysics Group](https://www.lanl.gov/engage/organizations/aldsct/theoretical/tbb) at Los Alamos National Laboratory mentored by [William Hlavacek](https://scholar.google.com/citations?user=DdpCclEAAAAJ&hl=en) and [Yen Ting Lin](https://scholar.google.com/citations?user=wUhVn34AAAAJ&hl=en). I estimated the basic reproduction number for COVID-19 in 50 US states and 280 urban areas, identifying regions at risk of high disease transmission and aiding future pandemic preparedness. I also designed a framework comparing methods of local sensitivity analysis for gradient evaluation in machine learning, optimization, and statistical inference applications involving ordinary differential equations.
 
-Highlights:
-1. Strong background in mathematical and computational modeling of biological systems
-2. Strong foundations in machine learning & algorithms with intensive training
-3. Programming Languages: Fluent in Python, MATLAB, R, and Mathematica; basic proficiency in C++
-4. National (US) Chess Master since 2009 & Champion in multiple states
-5. Languages: Fluent in English, Tamil, and Telugu
+I earned my doctoral degree from [UC-DAVIS](https://ucdavis.edu/) where I was supervised by [Alan Hastings](https://alanhastings.ucdavis.edu). For my [dissertation research](https://escholarship.org/content/qt1zw5c1ng/qt1zw5c1ng.pdf), I used nonlinear and stochastic modeling approaches to explore how complex systems, including those found in ecology, respond to critical transitions.
 
-My email address is < abhishek [dot] mallela [at] gmail [dot] com >.
- 
-Biography ([CV](https://dynova.github.io/files/CV_AbhishekMallela.pdf)) - "What makes me unique?"
-======
-* I first used Bayesian inference at Los Alamos National Lab to further timely research on COVID-19, then at the University of Notre Dame on the design and parameter estimation of enzyme-catalyzed experiments. I have grown rapidly and thrived in both environments. *These efforts demonstrate my versatile skillset and my strong desire for new opportunities and challenges.*
+Prior to this, I was a Graduate Research Associate in the [Center for Computational Biology](https://compbio.ku.edu/) at the University of Kansas, where I was supervised by [Eric Deeds (now at UCLA)](https://deedslab.ibp.ucla.edu).
 
-* Chess has been my lifelong passion. With my achievements as a national chess master and state champion in multiple states (e.g., Texas, Missouri, Kansas, and New Mexico), *I show that I perform well under pressure, have excellent time management skills, and make strategic decisions.*
-
-* Mathematical biology is an active and exciting area of research. I show with my PhD in applied math that *I excel in technical and interdisciplinary fields and the analytical skills I have honed are transferable to other areas.*
+I gratefully acknowledge [Naveen Vaidya (now at San Diego State University)](https://nvaidya.sdsu.edu/DiMoLab.html) and [Suzanne Lenhart (at the University of Tennessee, Knoxville)](https://web.math.utk.edu/~slenhart/) for my initial exposure to research in mathematical biology and optimal control theory, during my time as a Master's Student at the [University of Missouri - Kansas City](https://www.umkc.edu).
