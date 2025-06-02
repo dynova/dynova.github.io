@@ -6,7 +6,7 @@ author_profile: true # This usually shows your profile sidebar
 ---
 
 <p>
-In addition to my academic background, I have had the chance to participate in many activities. To mention a couple of them, I enjoy competitive chess and outdoor activities including hiking, mountain climbing, and other adventures.
+In addition to my academic background, I have had the chance to participate in many activities. To mention a few of them, I enjoy competitive chess and outdoor activities including hiking, mountain climbing, and other adventures.
 </p>
 
 <link rel="stylesheet" type="text/css" href="../assets/css/main.css">
