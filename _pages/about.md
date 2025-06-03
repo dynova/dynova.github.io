@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in mathematical biology in the [Department of Biological Sciences](https://biology.nd.edu) at the University of Notre Dame mentored by [Santiago Schnell](https://biology.nd.edu/people/santiago-schnell/). I am working on the design & parameter estimation of enzyme-catalyzed experiments, and am also designing a mathematical model of a minimal mechanism for hormesis.  
+I am currently a Postdoctoral Fellow in mathematical biology mentored by [Santiago Schnell](https://biology.nd.edu/people/santiago-schnell/) in the [Department of Biological Sciences](https://biology.nd.edu) at the University of Notre Dame. I am working on the design & parameter estimation of enzyme-catalyzed experiments, and am also designing a mathematical model of a minimal mechanism for hormesis.  
 
 Previously, I was a Postdoctoral Fellow in the [Center for Nonlinear Studies](https://cnls.lanl.gov/external//people/Abhishek_Mallela.php) and the [Theoretical Biology and Biophysics Group](https://www.lanl.gov/engage/organizations/aldsct/theoretical/tbb) at Los Alamos National Laboratory mentored by [William Hlavacek](https://scholar.google.com/citations?user=DdpCclEAAAAJ&hl=en) and [Yen Ting Lin](https://scholar.google.com/citations?user=wUhVn34AAAAJ&hl=en). I estimated the basic reproduction number for COVID-19 in 50 US states and 280 urban areas, identifying regions at risk of high disease transmission and aiding future pandemic preparedness. I also designed a framework comparing methods of local sensitivity analysis for gradient evaluation in machine learning, optimization, and statistical inference applications involving ordinary differential equations.
 

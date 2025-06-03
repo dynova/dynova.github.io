@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+### Research
+
+Throughout my research career, I have been fascinated by the power of mathematics to reveal hidden patterns in biological systems. My research lies at the intersection of quantitative modeling and the life sciences, where I develop and use mathematical frameworks to understand complex phenomena, ranging from cellular dynamics (on the microscopic scale) to population behavior (on the macroscopic scale). The main factor that drives me is not just the elegance of equations and mathematical formulae, but their ability to make sense of the living world.
+
 ## Differential contagiousness of respiratory disease across the United States
 
 The initial contagiousness of a communicable disease within a given population is quantified by the basic reproduction number. This number depends on both pathogen and population properties. On the basis of compartmental models that reproduce Coronavirus Disease 2019 (COVID-19) surveillance data, we used Bayesian inference and the next-generation matrix approach to estimate region-specific basic reproduction number values for 280 of 384 metropolitan statistical areas (MSAs) in the United States (US), which account for 95% of the US population living in urban areas and 82% of the total population. We focused on MSA populations after finding that these populations were more uniformly impacted by COVID-19 than state populations. Our maximum a posteriori (MAP) estimates for the basic reproduction number range from 1.9 to 7.7 and quantify the relative susceptibilities of regional populations to spread of respiratory diseases.

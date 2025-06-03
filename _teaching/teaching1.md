@@ -8,4 +8,5 @@ date: 2017-09-15
 location: "Davis, CA, USA"
 ---
 
-Teaching assistant and tutor for undergraduate-level mathematics courses from 2017 to 2022.
+Teaching assistant and tutor for undergraduate-level mathematics courses from 2017 to 2022. Courses: Pre-calculus, Short calculus, Linear Algebra (Theory), Linear Algebra (Computation), Applied Linear Algebra, Differential Equations, History of Mathematics,
+Number Theory, and Numerical Analysis.

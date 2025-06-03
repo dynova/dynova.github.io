@@ -1,5 +1,5 @@
 ---
-title: "Instructor of Record"
+title: "Adjunct Instructor"
 collection: teaching
 type: "College Algebra"
 permalink: /teaching/teaching4
@@ -8,4 +8,4 @@ date: 2014-06-01
 location: "Kansas City, MO, USA"
 ---
 
-Instructor in charge of 1 course section of (remedial) College Algebra with over 20 students (Summer 2014); designed, administered, and graded assignments and exams.
+Adjunct instructor in charge of 1 course section of (remedial) College Algebra with over 20 students (Summer 2014); designed, administered, and graded assignments and exams.
