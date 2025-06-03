@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-02-14
 venue: 'Bulletin of Mathematical Biology'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11538-024-01258-4.pdf'
-citation: '<b>Mallela, A.</b>, Chen, Y., Lin, Y.T., Miller, E.F., Neumann, J., He, Z., Nelson, K.E., Posner, R.G., and Hlavacek, W.S.'
+citation: '<em>Impacts of vaccination and Severe Acute Respiratory Syndrome Coronavirus 2 variants Alpha and Delta on Coronavirus Disease 2019 transmission dynamics in four metropolitan areas of the United States</em>. <b>Mallela, A.</b>, Chen, Y., Lin, Y.T., Miller, E.F., Neumann, J., He, Z., Nelson, K.E., Posner, R.G., and Hlavacek, W.S. (2024), Bulletin of Mathematical Biology, 86(3):31'
 ---
 
 # Abstract 

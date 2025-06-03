@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-12-01
 venue: 'Epidemics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1755436523000543/pdfft?md5=9442b7e652ccc96d7ac0b371ae4d476f&pid=1-s2.0-S1755436523000543-main.pdf'
-citation: '<b>Mallela, A.</b>, Lin, Y.T., and Hlavacek, W.S.'
+citation: '<em>Differential contagiousness of respiratory disease across the United States</em>. <b>Mallela, A.</b>, Lin, Y.T., and Hlavacek, W.S. (2023), Epidemics, 45:100718'
 ---
 
 # Abstract 

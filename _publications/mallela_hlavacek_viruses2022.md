@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-01-15
 venue: 'Viruses'
 paperurl: 'https://www.mdpi.com/1999-4915/14/1/157/pdf?version=1642479902'
-citation: '<b>Mallela, A.</b>, Neumann, J., Miller, E.F., Chen, Y., Posner, R.G., Lin, Y.T., and Hlavacek, W.S.'
+citation: '<em>Bayesian inference of state-level COVID-19 basic reproduction numbers across the United States.</em> <b>Mallela, A.</b>, Neumann, J., Miller, E.F., Chen, Y., Posner, R.G., Lin, Y.T., and Hlavacek, W.S. (2022), Viruses, 14(1):157'
 ---
 
 # Abstract 

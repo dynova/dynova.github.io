@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-06-21
 venue: 'PLoS Global Public Health'
 paperurl: 'https://journals.plos.org/globalpublichealth/article/file?id=10.1371/journal.pgph.0001490&type=printable'
-citation: 'Miller, E.F., Neumann, J., Chen, Y., <b>Mallela, A.</b>, Lin, Y.T., Hlavacek, W.S., and Posner, R.G.'
+citation: '<em>Quantification of early nonpharmaceutical interventions aimed at slowing transmission of Coronavirus Disease 2019 in the Navajo Nation and surrounding states</em>. Miller, E.F., Neumann, J. Chen, Y., <b>Mallela, A.</b>, Lin, Y.T., Hlavacek, W.S., and Posner, R.G. (2023), PLOS Global Public Health, 3(6):e0001490'
 ---
 
 # Abstract

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-03-31
 venue: 'Bulletin of Mathematical Biology'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11538-021-00889-1.pdf'
-citation: '<b>Mallela, A.</b> and Hastings, A.'
+citation: '<em>The role of stochasticity in noise-induced tipping cascades: A master equation approach</em>. <b>Mallela, A.</b> and Hastings, A. (2021), Bulletin of Mathematical Biology, 83(5):1-20'
 ---
 
 # Abstract 

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-07-26
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-024-50601-9.pdf'
-citation: 'Mathis, S.M., Webber, A.E., Basu, A., ..., <b>Mallela, A.</b>, ...'
+citation: '<em>Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations</em>. Mathis, S.M., Webber, A.E., Basu, A., <b>et al.</b> (2024), Nature Communications, 15:6289'
 ---
 
 # Abstract 

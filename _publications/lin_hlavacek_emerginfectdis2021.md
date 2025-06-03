@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-02-10
 venue: 'Emerging Infectious Diseases'
 paperurl: 'https://wwwnc.cdc.gov/eid/article/27/3/pdfs/20-3364.pdf'
-citation: 'Lin, Y.T., Neumann, J., Miller, E.F., Posner, R.G., <b>Mallela,A.</b>, Safta, C., Ray, J., Thakur, G., Chinthavali, S., and Hlavacek, W.S.'
+citation: '<em>Daily forecasting of regional epidemics of Coronavirus disease with Bayesian uncertainty quantification</em>. Lin, Y.T., Neumann, J., Miller, E.F., Posner, R.G., <b>Mallela, A.</b>, Safta, C., Ray, J., Thakur, G., Chinthavali, S., and Hlavacek, W.S. (2021), Emerging Infectious Diseases, 27(3):767'
 ---
 
 # Abstract 

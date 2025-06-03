@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-08-01
 venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-022-01517-w.pdf'
-citation: 'Cramer, E.Y., Huang, Y., Wang, Y., ..., <b>Mallela, A.</b>, ...'
+citation: '<em>The United States COVID-19 Forecast Hub dataset</em>. Cramer, E.Y., Huang, Y., Wang, Y., <b>et al.</b> (2022), Scientific Data, 9(462):1-15'
 ---
 
 # Abstract 

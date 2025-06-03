@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-09-21
 venue: 'Journal of Theoretical Biology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022519322002193/pdfft?md5=987c26b506df27d2114639372afd74c9&pid=1-s2.0-S0022519322002193-main.pdf'
-citation: '<b>Mallela, A.</b> and Hastings, A.'
+citation: '<em>Optimal management of stochastic invasion in a metapopulation with Allee effects</em>. <b>Mallela, A.</b> and Hastings, A. (2022), Journal of Theoretical Biology, 549:111221'
 ---
 
 # Abstract 

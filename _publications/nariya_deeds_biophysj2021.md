@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-09-07
 venue: 'Biophysical Journal'
 paperurl: 'https://www.cell.com/biophysj/fulltext/S0006-3495(21)00557-9#'
-citation: 'Nariya, M.K., <b>Mallela, A.</b>, Shi, J.J., and Deeds, E.J.'
+citation: '<em>Robustness and the evolution of length control strategies in the T3SS and flagellar hook.</em> Nariya, M.K., <b>Mallela, A.</b>, Shi, J.J., and Deeds, E.J. (2021), Biophysical Journal, 120(17):3820-3830'
 ---
 
 # Abstract

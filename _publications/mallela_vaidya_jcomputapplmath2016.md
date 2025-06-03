@@ -6,7 +6,7 @@ excerpt: ''
 date: 2016-12-01
 venue: 'Journal of Computational and Applied Mathematics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0377042716301078/pdfft?md5=a6181285cd8162972c5d2499fd486c80&pid=1-s2.0-S0377042716301078-main.pdf'
-citation: '<b>Mallela, A.</b>, Lenhart, S., and Vaidya, N.K.'
+citation: '<em>HIV-TB co-infection treatment: modeling and optimal control theory perspectives</em>. <b>Mallela, A.</b>, Lenhart, S., Vaidya, N.K. (2016), Journal of Computational and Applied Mathematics, 307:143-161'
 ---
 
 # Abstract 

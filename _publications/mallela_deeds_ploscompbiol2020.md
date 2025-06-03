@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-28
 venue: 'PLoS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1008492&type=printable'
-citation: '<b>Mallela, A.</b>, Nariya, M.K., and Deeds, E.J.'
+citation: '<em>Crosstalk and ultrasensitivity in protein degradation pathways</em>. <b>Mallela, A.</b>, Nariya, M.K., and Deeds, E.J. (2020), PLOS Computational Biology, 16(12):e1008492'
 ---
 
 # Abstract

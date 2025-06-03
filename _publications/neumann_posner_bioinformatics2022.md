@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-03-15
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article-pdf/38/6/1770/49692951/btac004.pdf'
-citation: 'Neumann, J., Lin, Y.T., <b>Mallela, A.</b>, Miller, E.F., Colvin, J., Duprat, A.T., Chen, Y., Hlavacek, W.S., and Posner, R.G.'
+citation: '<em>Implementation of a practical Markov chain Monte Carlo sampling algorithm in PyBioNetFit</em>. Neumann, J., Lin, Y.T., <b>Mallela, A.</b>, Miller, E.F., Colvin, J., Duprat, A.T., Chen, Y., Hlavacek, W.S., and Posner, R.G. (2022), Bioinformatics, 38(6):1770-1772'
 ---
 
 # Abstract 

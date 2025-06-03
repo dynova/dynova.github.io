@@ -1,4 +1,4 @@
-{% include base_path %}
+{% raw %}{% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
@@ -8,9 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -23,7 +23,6 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
@@ -37,7 +36,6 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
-      <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
       {% endif %}
@@ -58,7 +56,7 @@
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
-      {% endif %}                        
+      {% endif %}                                
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
@@ -66,7 +64,6 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
-      <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
       {% endif %}
@@ -86,7 +83,6 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
 
-      <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
         <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %}
@@ -101,10 +97,10 @@
       {% endif %}
       {% if author.goodreads %}
         <li><a href="https://www.goodreads.com/{{ author.goodreads }}"><i class="fab fa-fw fa-goodreads icon-pad-right" aria-hidden="true"></i>Goodreads</a></li>
-      {% endif %}            
+      {% endif %}        
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus-g icon-pad-right" aria-hidden="true"></i>Google+</a></li>
-      {% endif %}            
+      {% endif %}        
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key icon-pad-right" aria-hidden="true"></i>Keybase</a></li>
       {% endif %}
@@ -125,7 +121,7 @@
       {% endif %}      
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest icon-pad-right" aria-hidden="true"></i>Pinterest</a></li>
-      {% endif %}            
+      {% endif %}        
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
       {% endif %}      
@@ -143,13 +139,13 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine icon-pad-right" aria-hidden="true"></i>Vine</a></li>
-      {% endif %}        
+      {% endif %}      
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w icon-pad-right" aria-hidden="true"></i>Wikipedia</a></li>
-      {% endif %}                
+      {% endif %}              
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing icon-pad-right" aria-hidden="true"></i>XING</a></li>
       {% endif %}
@@ -160,5 +156,19 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
-  </div>
-</div>
+
+    <h3 class="author__urls-title" style="margin-top: 1em;">Documents</h3>
+    <ul class="author__urls">
+      <li>
+        <a href="{{ '/files/CV_AbhishekMallela.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>Download CV
+        </a>
+      </li>
+      <li>
+        <a href="{{ '/files/Resume_AbhishekMallela.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>Download Resume
+        </a>
+      </li>
+    </ul>
+    </div>
+</div>{% endraw %}

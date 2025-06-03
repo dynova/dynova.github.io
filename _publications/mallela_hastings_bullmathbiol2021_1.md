@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-09-30
 venue: 'Bulletin of Mathematical Biology'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11538-021-00943-y.pdf'
-citation: '<b>Mallela, A.</b> and Hastings, A.'
+citation: '<em>Tipping cascades in a multi-patch system with noise and spatial coupling</em>. <b>Mallela, A.</b> and Hastings, A. (2021), Bulletin of Mathematical Biology, 83(11):1-27'
 ---
 
 # Abstract 
