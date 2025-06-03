@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Research
+# Research
 
 Throughout my research career, I have been fascinated by the power of mathematics to reveal hidden patterns in biological systems. My research lies at the intersection of quantitative modeling and the life sciences, where I develop and use mathematical frameworks to understand complex phenomena, ranging from cellular dynamics (on the microscopic scale) to population behavior (on the macroscopic scale). The main factor that drives me is not just the elegance of equations and mathematical formulae, but their ability to make sense of the living world.
 
