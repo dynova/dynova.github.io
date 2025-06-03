@@ -35,52 +35,25 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right"></i>{{ labels.email_label | default: "Email" }}</a></li>
       {% endif %}
 
-      {% assign social_links = 
-        "academia arxiv googlescholar semantic impactstory orcid pubmed researchgate scopus bitbucket codepen dribbble github kaggle stackoverflow bluesky facebook flickr foursquare goodreads google_plus keybase instagram lastfm linkedin mastodon medium pinterest soundcloud steam telegram tumblr twitter vine weibo wikipedia xing youtube zhihu"
-        | split: " " %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
+      {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+      {% endif %}
+      {% if author.pubmed %}
+        <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
+      {% endif %}
 
-      {% for network in social_links %}
-        {% if author[network] %}
-          {% assign icon_class = "fab" %}
-          {% if network == "orcid" or network == "scopus" or network == "semantic" or network == "impactstory" or network == "arxiv" or network == "googlescholar" or network == "pubmed" or network == "academia" %}
-            {% assign icon_class = "ai" %}
-          {% elsif network == "keybase" %}
-            {% assign icon_class = "fas" %}
-          {% endif %}
-          {% capture url %}
-            {% case network %}
-              {% when "stackoverflow" %}https://www.stackoverflow.com/users/{{ author[network] }}
-              {% when "github" %}https://github.com/{{ author[network] }}
-              {% when "linkedin" %}https://www.linkedin.com/in/{{ author[network] }}
-              {% when "twitter" %}https://twitter.com/{{ author[network] }}
-              {% when "facebook" %}https://www.facebook.com/{{ author[network] }}
-              {% when "youtube" %}https://www.youtube.com/@{{ author[network] }}
-              {% when "tumblr" %}https://{{ author[network] }}.tumblr.com
-              {% when "flickr" %}https://www.flickr.com/{{ author[network] }}
-              {% when "goodreads" %}https://www.goodreads.com/{{ author[network] }}
-              {% when "xing" %}https://www.xing.com/profile/{{ author[network] }}
-              {% when "zhihu" %}https://www.zhihu.com/people/{{ author[network] }}
-              {% when "google_plus" %}https://plus.google.com/+{{ author[network] }}
-              {% when "pinterest" %}https://www.pinterest.com/{{ author[network] }}
-              {% when "dribbble" %}https://dribbble.com/{{ author[network] }}
-              {% when "bitbucket" %}https://bitbucket.org/{{ author[network] }}
-              {% when "codepen" %}https://codepen.io/{{ author[network] }}
-              {% when "kaggle" %}https://kaggle.com/{{ author[network] }}
-              {% when "lastfm" %}https://last.fm/user/{{ author[network] }}
-              {% when "soundcloud" %}https://soundcloud.com/{{ author[network] }}
-              {% when "steam" %}https://steamcommunity.com/id/{{ author[network] }}
-              {% when "wikipedia" %}https://en.wikipedia.org/wiki/User:{{ author[network] }}
-              {% when "foursquare" %}https://foursquare.com/{{ author[network] }}
-              {% when "bluesky" %}https://bsky.app/profile/{{ author[network] }}
-              {% else %}{{ author[network] }}
-            {% endcase %}
-          {% endcapture %}
-          <li><a href="{{ url }}"><i class="{{ icon_class }} fa-fw fa-{{ network | replace: '_', '-' }} icon-pad-right"></i>{{ network | capitalize }}</a></li>
-        {% endif %}
-      {% endfor %}
+      <!-- (Optional) Additional social links -->
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right"></i>GitHub</a></li>
+      {% endif %}
+      {% if author.linkedin %}
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right"></i>LinkedIn</a></li>
+      {% endif %}
     </ul>
 
-    <h3 class="author__urls-title" style="margin-top: 1em;">Documents</h3>
     <ul class="author__urls">
       <li>
         <a href="{{ '/files/CV_AbhishekMallela.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
