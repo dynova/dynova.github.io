@@ -9,8 +9,8 @@ author_profile: true
 
 ## Research
 This repository consists of the code files corresponding to all of my research projects (starting in 2013). <br />
-[GitHub respository](https://github.com/dynova/research_codes)
+[GitHub repository](https://github.com/dynova/research_codes)
 
 ## Coursera
 This repository consists of the code files and certificates of completion corresponding to Coursera specializations that I completed. <br />
-[GitHub respository](https://github.com/dynova/coursera)
+[GitHub repository](https://github.com/dynova/coursera)
