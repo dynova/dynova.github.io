@@ -41,7 +41,10 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
-
+      {% if author.researchgate %}
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw icon-pad-right"></i>ResearchGate</a></li>
+      {% endif %}
+      
       <!-- (Optional) Additional social links -->
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right"></i>GitHub</a></li>
