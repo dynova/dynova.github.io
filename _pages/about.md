@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in mathematical biology mentored by [Santiago Schnell](https://faculty-directory.dartmouth.edu/santiago-schnell) in the [Department of Mathematics](https://math.dartmouth.edu) at Dartmouth College. I am working on the design & parameter estimation of enzyme-catalyzed experiments, and am also designing a mathematical model of a minimal mechanism for hormesis.  
+I am currently a Postdoctoral Fellow in mathematical biology mentored by [Santiago Schnell](https://faculty-directory.dartmouth.edu/santiago-schnell) in the [Department of Mathematics](https://math.dartmouth.edu) at Dartmouth College. I am working on the design & parameter estimation of enzyme-catalyzed experiments, and am also designing a mathematical model of a minimal mechanism for hormesis. I am also collaborating with researchers at Harvard University on an effort involving repeated games with large language models (LLMs).
 
 Previously, I was a Postdoctoral Fellow in the [Center for Nonlinear Studies](https://cnls.lanl.gov/external//people/Abhishek_Mallela.php) and the [Theoretical Biology and Biophysics Group](https://www.lanl.gov/engage/organizations/aldsct/theoretical/tbb) at Los Alamos National Laboratory mentored by [William Hlavacek](https://scholar.google.com/citations?user=DdpCclEAAAAJ&hl=en) and [Yen Ting Lin](https://scholar.google.com/citations?user=wUhVn34AAAAJ&hl=en). I estimated the basic reproduction number for COVID-19 in 50 US states and 280 urban areas, identifying regions at risk of high disease transmission and aiding future pandemic preparedness.
 
