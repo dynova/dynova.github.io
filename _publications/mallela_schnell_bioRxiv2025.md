@@ -5,7 +5,7 @@ permalink: /publications/mallela_schnell_bioRxiv2025
 excerpt: ''
 date: 2025-10-08
 venue: 'bioRxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2025.10.07.681066v2.full.pdf'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2025.10.07.681066v3.full.pdf'
 citation: '<em>Structural hormesis in protein aggregation: A minimal mechanistic model</em>. <b>Mallela, A.</b> and Schnell, S. (2025), bioRxiv'
 ---
 
