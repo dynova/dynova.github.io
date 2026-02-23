@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/miller_posner_aRxiv2025
 excerpt: ''
 date: 2025-08-26
-venue: 'PLoS Global Public Health'
+venue: 'aRxiv'
 paperurl: 'https://arxiv.org/pdf/2508.19420'
-citation: '<em>Using PyBioNetFit to Leverage Qualitative and Quantitative Data in Biological Model Parameterization and Uncertainty Quantification</em>. Miller, E.F., <b>Mallela, A.</b>, Neumann, J., Lin, Y.T., Hlavacek, W.S., and Posner, R.G. (2025), aRxiv'
+citation: '<em>Using PyBioNetFit to Leverage Qualitative and Quantitative Data in Biological Model Parameterization and Uncertainty Quantification</em>. Miller, E.F., <b>Mallela, A.</b>, Neumann, J., Lin, Y.T., Hlavacek, W.S., and Posner, R.G. (2025), aRxiv preprint'
 ---
 
 # Abstract

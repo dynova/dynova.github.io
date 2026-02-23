@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-04-22
 venue: 'medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.04.10.20061069v2.full.pdf'
-citation: '<em>Optimal Control applied to a SEIR model of 2019-nCoV with social distancing</em>. <b>Mallela, A.</b> (2020), medRxiv'
+citation: '<em>Optimal Control applied to a SEIR model of 2019-nCoV with social distancing</em>. <b>Mallela, A.</b> (2020), medRxiv preprint'
 ---
 
 # Abstract 

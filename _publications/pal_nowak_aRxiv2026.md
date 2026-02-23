@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-01-14
 venue: 'aRxiv'
 paperurl: 'https://arxiv.org/pdf/2601.09849'
-citation: '<em>Strategies of cooperation and defection in five large language models</em>. Pal, S., <b>Mallela, A.</b>, Hilbe, C., Pracher, L., Wei, C., Fu, F., Schnell, S., and Nowak, M.A. (2026), aRxiv'
+citation: '<em>Strategies of cooperation and defection in five large language models</em>. Pal, S., <b>Mallela, A.</b>, Hilbe, C., Pracher, L., Wei, C., Fu, F., Schnell, S., and Nowak, M.A. (2026), aRxiv preprint'
 ---
 
 # Abstract 
