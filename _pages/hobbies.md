@@ -17,7 +17,7 @@ In addition to my academic background, I have had the chance to participate in m
 </div>
 <div style="height: 10px;"></div>
 <p>
-I am a <a href="https://www.uschess.org/msa/MbrDtlMain.php?12888811">US National Master</a>, a title awarded to less than 2% of competitive chess players in the US. Over the course of my competitive career, I have won several state open championships as well as numerous local tournaments.
+As of 2009, I am a <a href="https://www.uschess.org/msa/MbrDtlMain.php?12888811">US National Master</a>. This title is awarded to less than 2% of competitive chess players in the US. Over the course of my competitive career, I have won several state open championships as well as numerous local tournaments.
 </p>
 <p>
 Selected accomplishments:
