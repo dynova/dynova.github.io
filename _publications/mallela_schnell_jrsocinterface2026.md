@@ -1,0 +1,13 @@
+---
+title: "Structural hormesis in protein aggregation: A minimal mechanistic model"
+collection: publications
+permalink: /publications/mallela_schnell_jrsocinterface2026
+excerpt: ''
+date: 2026-04-01
+venue: 'Journal of the Royal Society Interface'
+paperurl: 'https://watermark02.silverchair.com/rsif.2025.1037.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1AwggNMBgkqhkiG9w0BBwagggM9MIIDOQIBADCCAzIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMNsg1ikc-aJtqywqjAgEQgIIDA9mN7Jalfvsch0a5Hg4tzy681eQ9L44EBUlzP6T-Ro08PUCg3am3yDd9Mp9_rRNJa-Ff3L1tjleeyengVaUu-pEcV8ZNpBz7qgfV-jdgMr6vmpjDP-fa_XnoqX62NZnnAfTLiXcewrF8fcXMnGYRuy5wli80nL9hodYTo2C94IQdNgaAmYST5Lt2C61cMgMeEB-bkS3WUe-1BFhW_EnZfwFu9OUd0JM3Juf0bvne3DvC4TLRHZhmyic5rla6CFJEdvINQ9bANJSom8vDcBsUUBy5y745bx-aK2VyrK3LEsgCDOSGJVnqb0UbdP_Rw34e6idCoQW-xZHE48qwISqKz09KoruWaQoYkGIT0qI3k_Mhevn_Y8hk_LYGZ8BpN1e6UHUqdgYui2_s_DB5FTngBSdF2wLSU837GUrQqkQyJB5-Cmmx-npPBzSPsGHiccofxYxgw3RPGDLZluXp1sSPh9y8NKlIluRcBQnZX1PVYfDsZx9Q7Ovco3-anInceT-cWLDXRXJoQZ9HYfZBInxQ_KxWWEGqQopENv5diyLSW3Z8OPLIFbT56qos9X9eDoGeOxmMSXf75Vi1l9-En4qSDj6DBrVf0RGdMdOU7FYDp9loAJyOjYFvksMQXdvjW0zyz3V95hk2kB1PTnPRn6nZ7VA7aiiYRLINe02IiWF78m3jh7UfaHCgdLHiLE3KClb9kCOj_GHrG-j8ABWIidyGs_V-xURtA3KZK6-vAwUQJK-rsnQ_Kwc71vL-u2wqMNxHQ0xdxK0scW69qdeUGtaxgQztqnwQPw8TAuj1HEU9USCJiTXO4jpy9fnXJO-9y2Hr4Eve7poqzP9CuvHFsB-IBTw_jAusTnMJCKGEW04dEFDq7HEKTRCtndtnpwJgvx-Pj4CyopEzdxKF0GdHJlHUGwdUkSgzeZ00_Nn_v5XAaNJmVCBhmlxKu2O2qqWAwBmxifUsho3YV6C-EYL-CxKI652xW641CmZuGvLQ5FEX2wRr1ic0lBLXM7Bi9Mts0-E21WQPBQ'
+citation: '<em>Structural hormesis in protein aggregation: A minimal mechanistic model</em>. <b>Mallela, A.</b> and Schnell, S. (2026), Journal of the Royal Society Interface'
+---
+
+# Abstract 
+Protein aggregation underlies the pathogenesis of many neurodegenerative diseases, and inhibitors are often assumed to elicit monotonic dose–responses. We ask whether simple aggregation pathways can intrinsically generate hormesis—a biphasic profile with low–dose stimulation and high–dose inhibition. We formulate a minimal mechanistic model in which a single inhibitor interacts sequentially with pathway intermediates. Analysis and simulation show a robust non–monotonic response: low inhibitor doses increase aggregate formation, whereas high doses suppress it. We prove that this profile is structural—arising from chemical network topology rather than tuned kinetic parameters. The mechanism rationalizes pro–aggregating effects at low doses and underscores the need for full–range dose–response evaluation in inhibitor screening.
