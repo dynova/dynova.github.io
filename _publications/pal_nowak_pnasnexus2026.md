@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-06-11
 venue: 'PNAS Nexus'
 paperurl: 'https://doi.org/10.1093/pnasnexus/pgag210'
-citation: '<em>Large language models instantiate evolutionarily robust strategies of cooperation</em>. Pal, S., <b>Mallela, A.</b>, Pracher, L., Wei, C., Fu, F., Schnell, S., and Nowak, M.A. (2026), aRxiv preprint'
+citation: '<em>Large language models instantiate evolutionarily robust strategies of cooperation</em>. Pal, S., <b>Mallela, A.</b>, Pracher, L., Wei, C., Fu, F., Schnell, S., and Nowak, M.A. (2026), PNAS Nexus'
 ---
 
 # Abstract 

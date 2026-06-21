@@ -6,7 +6,7 @@ excerpt: ''
 date: 2026-04-29
 venue: 'Frontiers in Immunology'
 paperurl: 'https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1663008/pdf'
-citation: '<em>Using PyBioNetFit to Leverage Qualitative and Quantitative Data in Biological Model Parameterization and Uncertainty Quantification</em>. Miller, E.F., <b>Mallela, A.</b>, Neumann, J., Lin, Y.T., Hlavacek, W.S., and Posner, R.G. (2025), Frontiers in Immunology'
+citation: '<em>Using PyBioNetFit to Leverage Qualitative and Quantitative Data in Biological Model Parameterization and Uncertainty Quantification</em>. Miller, E.F., <b>Mallela, A.</b>, Neumann, J., Lin, Y.T., Hlavacek, W.S., and Posner, R.G. (2026), Frontiers in Immunology'
 ---
 
 # Abstract
