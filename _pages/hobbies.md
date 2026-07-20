@@ -17,12 +17,13 @@ In addition to my academic background, I have had the chance to participate in m
 </div>
 <div style="height: 10px;"></div>
 <p>
-As of 2009, I am a <a href="https://www.uschess.org/msa/MbrDtlMain.php?12888811">US National Master</a>. This title is awarded to less than 2% of competitive chess players in the US. Over the course of my competitive career, I have won several state open championships as well as numerous local tournaments.
+As of 2009, I am a <a href="https://ratings.uschess.org/player/12888811">US National Master</a>. This title is awarded to less than 2% of competitive chess players in the US. Over the course of my competitive career, I have won several state open championships as well as numerous local tournaments.
 </p>
 <p>
 Selected accomplishments:
 </p>
 <ul style="padding-left: 20px;">
+    <li>New Hampshire Chess Co-Champion (July 2026)</li>
 	<li>West Michigan Chess Champion (April 2025)</li>
 	<li>Sacramento Chess Champion (July 2024)</li>
     <li>Tied for 2nd place out of 161 players in the Under 2300 section of the North American Open chess tournament in Las Vegas, NV (Dec 2023)</li>
