@@ -23,7 +23,7 @@ As of 2009, I am a <a href="https://ratings.uschess.org/player/12888811">US Nati
 Selected accomplishments:
 </p>
 <ul style="padding-left: 20px;">
-    <li>New Hampshire Chess Co-Champion (July 2026)</li>
+    <li>New Hampshire State Chess Co-Champion (July 2026)</li>
 	<li>West Michigan Chess Champion (April 2025)</li>
 	<li>Sacramento Chess Champion (July 2024)</li>
     <li>Tied for 2nd place out of 161 players in the Under 2300 section of the North American Open chess tournament in Las Vegas, NV (Dec 2023)</li>
