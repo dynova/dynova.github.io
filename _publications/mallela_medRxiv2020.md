@@ -1,7 +1,7 @@
 ---
 title: "Optimal Control applied to a SEIR model of 2019-nCoV with social distancing"
 collection: publications
-permalink: /publications/mallela_medRxiv2020
+permalink: /publications/mallela_medrxiv2020
 excerpt: ''
 date: 2020-04-22
 venue: 'medRxiv'
