@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am currently a Research Scientist at Pandorum International Inc.
+I am currently a Research Scientist at Pandorum Technologies.
 
 Before this, I was a Postdoctoral Fellow in mathematical biology mentored by [Santiago Schnell](https://faculty-directory.dartmouth.edu/santiago-schnell) in the [Department of Mathematics](https://math.dartmouth.edu) at Dartmouth College. I developed a mathematical model of a minimal mechanism for hormesis in protein aggregation, and I designed an optimal experimental protocol to estimate the parameters of enzyme-catalyzed experiments. I also collaborated with researchers at Harvard University on an effort involving repeated games with large language models (LLMs).
 
